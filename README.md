@@ -42,6 +42,5 @@ Backend
 [GitHub Repository](https://github.com/jonahsanpedro/se_project_express)
 
 ## 📫 Let's Connect
-- 💼 [LinkedIn](your-linkedin-url)
-- 📧 [Email](mailto:your-email)
-- 🌐 [Portfolio](your-portfolio-url)
+- 💼 [LinkedIn](www.linkedin.com/in/jonahsanpedro)
+- 📧 [Email](jonahsanpedro@gmail.com)
