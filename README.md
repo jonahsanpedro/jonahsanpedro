@@ -40,7 +40,3 @@ Frontend
 [GitHub Repository](https://github.com/jonahsanpedro/se_project_react)
 Backend
 [GitHub Repository](https://github.com/jonahsanpedro/se_project_express)
-
-## 📫 Let's Connect
-- 💼 [LinkedIn](www.linkedin.com/in/jonahsanpedro)
-- 📧 [Email](jonahsanpedro@gmail.com)
