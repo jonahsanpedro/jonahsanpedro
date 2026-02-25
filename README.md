@@ -1,4 +1,4 @@
-# Hi there, I'm Jonah! 👋
+# Hi there, I'm Jonah!
 
 ## About Me
 I’m a Mechanical Engineering graduate and aspiring certified Software Engineer with nearly a decade of experience in data analysis and supply chain optimization. Throughout my career, I’ve delivered measurable results—such as boosting inventory accuracy from 30% to 90%—by leveraging technical expertise, ERP-driven data insights, and cycle count analysis to solve complex operational challenges.
